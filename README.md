@@ -13,7 +13,7 @@ Using Unity game engine as its easy for object based code.
 Written in C#.
 Started ~ Dec 2020
 
-"kartPhysics.cs" is the primary file. Other files are used but are worthless to assess (only basic variable assignment).
+"kartPhysics.cs" is the primary file. Other files not listed are used but are worthless to assess (only basic variable assignment).
 
 
 
