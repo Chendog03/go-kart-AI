@@ -12,17 +12,7 @@ Using Unity game engine as its easy for object based code.
 
 Written in C#.
 Started ~ Dec 2020
+Finished ~ Feb 2020
 
-"kartPhysics.cs" is the primary file. Other files not listed are used but are worthless to assess (only basic variable assignment).
+Fully functioning AI teaches itself to get around a track indefinitely (in best cases).
 
-
-
-# Current State:
-
-Finished player.
-
-Finished track and timing.
-
-Unfinished AI.
-
-Unfinished GUI.
