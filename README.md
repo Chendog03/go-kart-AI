@@ -12,7 +12,7 @@ Using Unity game engine as its easy for object based code.
 
 Written in C#.
 Started ~ Dec 2020
-Finished ~ Feb 2020
+Finished ~ Feb 2021
 
 Fully functioning AI teaches itself to get around a track indefinitely (in best cases).
 
